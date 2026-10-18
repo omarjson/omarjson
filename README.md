@@ -55,8 +55,15 @@ Builder from **Misurata, Libya** — and a cool person, allegedly. I come up wit
 
 ### 📊 Stats
 
-![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjson&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjson&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjson&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0d1117#gh-dark-mode-only)
+![Omar's GitHub stats](https://github-readme-stats.vercel.app/api?username=omarjson&show_icons=true&count_private=true&include_all_commits=true&theme=default&hide_border=true#gh-light-mode-only)
+![GitHub streak](https://streak-stats.demolab.com?user=omarjson&theme=tokyonight&hide_border=true&background=0d1117#gh-dark-mode-only)
+![GitHub streak](https://streak-stats.demolab.com?user=omarjson&theme=default&hide_border=true#gh-light-mode-only)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjson&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117#gh-dark-mode-only)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omarjson&layout=compact&langs_count=8&theme=default&hide_border=true#gh-light-mode-only)
+
+![Profile views](https://komarev.com/ghpvc/?username=omarjson&style=flat-square)
 
 ### 📫 Find me
 
@@ -65,8 +72,7 @@ Builder from **Misurata, Libya** — and a cool person, allegedly. I come up wit
 - 📸 [instagram.com/omar.jsonl](https://www.instagram.com/omar.jsonl)
 - 🎵 [Spotify](https://open.spotify.com/user/31esb5577oiygmq7qu3zle7ezy2e)
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31esb5577oiygmq7qu3zle7ezy2e&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false)](https://open.spotify.com/user/31esb5577oiygmq7qu3zle7ezy2e)
-
 ---
 
 <sub>صُنع في مصراتة · Made in Misurata</sub>
+
