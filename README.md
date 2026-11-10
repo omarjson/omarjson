@@ -4,7 +4,7 @@
 
 ### I build useful software at the edge of AI, developer tools, and desktop apps.
 
-[![Website](https://img.shields.io/badge/omar.com.ly-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omar.com.ly)
+[![Website](https://img.shields.io/badge/omar.ly-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omar.ly)
 [![Instagram](https://img.shields.io/badge/@omar.jsonl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar.jsonl)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/omarjson)
 
@@ -77,7 +77,7 @@ My current interests are **local-first AI**, **developer tooling**, **Rust**, an
 
 ## Find me
 
-- 🌐 [omar.com.ly](https://omar.com.ly)
+- 🌐 [omar.ly](https://omar.ly)
 - 💼 [Fiverr](https://fiverr.com/omarjson) — Arabic ↔ English translation and proofreading
 - 📸 [Instagram](https://www.instagram.com/omar.jsonl)
 - 🎵 [Spotify](https://open.spotify.com/user/31esb5577oiygmq7qu3zle7ezy2e)
