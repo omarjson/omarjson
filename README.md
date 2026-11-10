@@ -2,11 +2,13 @@
 
 # Omar Gargoum
 
-### Product-minded builder · AI tinkerer · Open-source enthusiast
+### I build useful software at the edge of AI, developer tools, and desktop apps.
 
 [![Website](https://img.shields.io/badge/omar.com.ly-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://omar.com.ly)
 [![Instagram](https://img.shields.io/badge/@omar.jsonl-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/omar.jsonl)
 [![Fiverr](https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://fiverr.com/omarjson)
+
+![Profile views](https://komarev.com/ghpvc/?username=omarjson&label=PROFILE+VIEWS&style=flat-square&color=58A6FF)
 
 </div>
 
@@ -14,33 +16,30 @@
 
 ## About
 
-I build useful software at the intersection of **AI, developer tools, desktop apps, and the web**.
+I'm a product-minded developer from **Misurata, Libya**. I like taking an idea from a rough sketch to a working product, then spending the time needed to make the details reliable and pleasant to use.
 
-Based in **Misurata, Libya**, I enjoy taking rough ideas from zero to something people can actually use—then refining the details that make it feel great. I work across the stack, bring people and tools together, and care about understanding the code I ship.
+My current interests are **local-first AI**, **developer tooling**, **Rust**, and **cross-platform desktop software**. I care about understandable code, practical interfaces, and shipping things that solve a real problem.
 
-> **Make it exist first. Make it better later.**
+> Make it exist first. Make it better later.
 
 ## What I'm building
 
-| Project | Description |
+| Project | What it is |
 | --- | --- |
-| [**OpenForge**](https://github.com/omarjson/OpenForge) | A Rust-based project I'm actively building and exploring. |
-| [**Crossfire**](https://github.com/omarjson/crossfire) | An AI debate sparring gym designed to challenge ideas and expose weak arguments. |
-| [**RAGit**](https://github.com/omarjson/RAGit) | A fully offline desktop RAG app for chatting with local files. |
-| [**BoardFlow**](https://github.com/omarjson/BoardFlow) | An infinite-canvas whiteboard PWA with templates, localization, and collaboration features. |
-| [**o-down**](https://github.com/omarjson/o-down) | A high-performance Windows download manager built with WinUI 3 and .NET. |
+| [**LocalAide**](https://github.com/omarjson/LocalAide) | A private, local-first desktop AI assistant with on-device inference, document search, and SQLite-backed memory. |
+| [**OpenForge**](https://github.com/omarjson/OpenForge) | A clean-room, cross-platform 3D modeling application written in Rust. |
+| [**Crossfire**](https://github.com/omarjson/crossfire) | An AI debate sparring gym that argues the opposing case, checks evidence, and scores reasoning. |
+| [**RAGit**](https://github.com/omarjson/RAGit) | An offline desktop RAG app for running local models and chatting with personal files. |
 
-## Other things I've shipped
+## Selected work
 
+- [**BoardFlow**](https://github.com/omarjson/BoardFlow) — an installable, offline-friendly whiteboard with AI tools, collaboration, templates, and RTL support.
+- [**o-down**](https://github.com/omarjson/o-down) — a Windows download manager built with WinUI 3 and .NET, with segmented downloads, queues, scheduling, and media extraction.
 - [**HabitLoop**](https://github.com/omarjson/HabitLoop) — offline-first habit tracking with in-browser insights.
 - [**dokkanek**](https://github.com/omarjson/dokkanek) — open-source Libyan POS and inventory software.
-- [**codex-router**](https://github.com/omarjson/codex-router) — a provider router for Codex CLI.
-- [**opencodex**](https://github.com/omarjson/opencodex) — a universal provider proxy for coding agents.
 - [**Distill-Align**](https://github.com/omarjson/Distill-Align) — experiments in model distillation and alignment.
-- [**LYMov**](https://lymov.cc.cd) — a bilingual Arabic/English movie and TV discovery platform.
-- **Masari** — an AI career co-pilot that won the HintX Hackathon.
 
-## Toolkit
+## Tools I use
 
 <div align="center">
 
@@ -51,25 +50,28 @@ Based in **Misurata, Libya**, I enjoy taking rough ideas from zero to something 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=flat-square&logo=svelte&logoColor=white)
 ![Tauri](https://img.shields.io/badge/Tauri-24C8DB?style=flat-square&logo=tauri&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 </div>
 
-## GitHub at a glance
+## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=omarjson&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Omar's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjson&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Omar's top languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=omarjson&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent&title_color=58A6FF&icon_color=58A6FF&text_color=8B949E" alt="Omar's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omarjson&layout=compact&langs_count=8&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Omar's most-used languages" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=omarjson&hide_border=true&theme=transparent&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Omar's GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=omarjson&hide_border=true&theme=transparent&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="Omar's GitHub contribution streak" />
+
+<br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=omarjson&bg_color=00000000&color=8B949E&line=58A6FF&point=F78166&area=true&hide_border=true" alt="Omar's contribution activity" />
 
 </div>
 
@@ -81,8 +83,6 @@ Based in **Misurata, Libya**, I enjoy taking rough ideas from zero to something 
 - 🎵 [Spotify](https://open.spotify.com/user/31esb5577oiygmq7qu3zle7ezy2e)
 
 <div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=omarjson&style=flat-square&color=58A6FF)
 
 <sub>صُنع في مصراتة · Made in Misurata</sub>
 
